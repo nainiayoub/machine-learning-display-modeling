@@ -1,4 +1,6 @@
 # ML Display Modeling
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nainiayoub/machine-learning-display-modeling/main/app.py)
+
 Target variable prediction web app, with different supervised learning algorithms.
 The idea is to make a prediction of the target variable `Display` using as independent variables `X1...X7`, from the data provided in [`./data`](https://github.com/nainiayoub/machine-learning-display-modeling/tree/main/data)
 
